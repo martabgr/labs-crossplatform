@@ -1,0 +1,10 @@
+(
+echo *.class
+echo *.jar
+echo target/
+echo .idea/
+echo *.iml
+echo .vscode/
+echo .DS_Store
+echo *.log
+) > .gitignore
